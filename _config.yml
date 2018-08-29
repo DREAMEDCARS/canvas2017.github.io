@@ -1,14 +1,14 @@
-title: Sé más que un blogger
-description:  Aprende a crear un blog.
+title: DREAMED CARS
+description: Learn about cars.
 permalink: ':title/'
 baseurl: "/" 
-url: "https://canvas2017.github.io" 
+url: "https://dreamedcars.github.io/" 
 site-twitter: 
 
 
-author: Sé más que un blogger  
+author: DREAMED CARS  
 author-img: logo-pie.png  
-about-author: El taller Malagabyte Summer para aprender a crear un blog con jekyll y una página web con HTML5 y CSS3.
+about-author: This blog brings you information about the world of automotion.
 social-twitter: 
 social-facebook: 
 social-github: 
