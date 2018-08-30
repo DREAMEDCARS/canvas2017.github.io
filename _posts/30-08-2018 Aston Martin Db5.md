@@ -3,7 +3,7 @@ layout: post
 title: Aston Martin DB5
 date: 2018-08-29
 description: Rewiew
-img: Aston.db5..jpg
+img: Aston.jpg
 fig-caption: 
 tags: [Technolgies, cars]
 ---
