@@ -766,6 +766,7 @@ template {
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+	color: #6FE872;
 }
 
 html {
