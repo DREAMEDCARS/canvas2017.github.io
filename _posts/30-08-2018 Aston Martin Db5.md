@@ -18,4 +18,4 @@ But one of the most interesting thing is that it will have some gadgets from the
 
 Here I give you a video of this car
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_seG3N1Jlm0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ src="https://www.youtube.com/embed/_seG3N1Jlm0" 
